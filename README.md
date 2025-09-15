@@ -1,2 +1,2 @@
 # BitTorrent
-Repositório para um exemplo de demonstração de um arquitetura P2P para compartilhamento de arquivos
+Repositório para um exemplo de demonstração de uma arquitetura P2P para compartilhamento de arquivos
